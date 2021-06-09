@@ -1,10 +1,10 @@
-Highlights
-==========
+Highlights ✨
+=============
 
 A few of the many `repositories <https://github.com/nomis?tab=repositories>`_...
 
-Applications and libraries
---------------------------
+Applications and libraries 📦
+-----------------------------
 
 `dtee <https://github.com/nomis/dtee>`_ (double tee)
     Split and recombine standard output and standard error (primarily to detect
@@ -35,8 +35,8 @@ Applications and libraries
 `cursus-core <https://github.com/nomis/cursus-core>`_, `cursus-ui <https://github.com/nomis/cursus-ui>`_
     Race series management program (incomplete but able to calculate results)
 
-Contributions to other projects
--------------------------------
+Contributions to other projects 🎁
+----------------------------------
 
 `linux <https://github.com/nomis/linux>`_
     * Support for full size (1500 byte) packets on
@@ -66,8 +66,8 @@ Contributions to other projects
     * Support `SCTP <https://en.wikipedia.org/wiki/Stream_Control_Transmission_Protocol>`_
       for dual IPv4+IPv6 use making server to server connections more reliable
 
-Scripts and tools
------------------
+Scripts and tools 🧰
+--------------------
 
 `intel-amt <https://github.com/nomis/intel-amt>`_
     Python tools for interacting with `Intel's AMT <https://en.wikipedia.org/wiki/Intel_Active_Management_Technology>`_
@@ -85,8 +85,8 @@ Scripts and tools
     Windows Subsystem for Linux Assuan Unix Proxy (capable of forwarding the GPG
     agent to a remote host)
 
-Work in progress
-----------------
+Work in progress 🚧
+-------------------
 
 `bookmarks <https://github.com/nomis/bookmarks>`_
     Bookmarks management website and Ruby on Rails experiment
