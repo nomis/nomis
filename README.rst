@@ -85,6 +85,16 @@ Scripts and tools 🧰
     Windows Subsystem for Linux Assuan Unix Proxy (capable of forwarding the GPG
     agent to a remote host)
 
+Other stuff 🤪
+--------------
+
+`utility-usage-website <https://github.com/nomis/utility-usage-website>`_, `network-traffic-usage-website <https://github.com/nomis/network-traffic-usage-website>`_
+    Rendering client-side SVG graphs and HTML pages with XSLT 1.0
+
+`rf433-ook <https://github.com/nomis/rf433-ook>`_
+    Arduino 433MHz OOK Receiver/Transmitter (realtime sampling of the code
+    period without running out of time to handle the next interrupt)
+
 Work in progress 🚧
 -------------------
 
