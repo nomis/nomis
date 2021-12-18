@@ -32,6 +32,9 @@ Applications and libraries 📦
     `SLF4J <https://slf4j.org/>`_ binding for the
     `Android logger <https://developer.android.com/reference/android/util/Log>`_
 
+`bookmarks <https://github.com/nomis/bookmarks>`_
+    Bookmarks management website and Ruby on Rails experiment
+
 `cursus-core <https://github.com/nomis/cursus-core>`_, `cursus-ui <https://github.com/nomis/cursus-ui>`_
     Race series management program (incomplete but able to calculate results)
 
@@ -98,5 +101,3 @@ Other stuff 🤪
 Work in progress 🚧
 -------------------
 
-`bookmarks <https://github.com/nomis/bookmarks>`_
-    Bookmarks management website and Ruby on Rails experiment
