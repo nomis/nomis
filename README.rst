@@ -101,3 +101,6 @@ Other stuff 🤪
 Work in progress 🚧
 -------------------
 
+`mcu-uuid-modbus <https://github.com/nomis/mcu-uuid-modbus>`_
+    Asynchronous modbus library for ESP (and other Arduino-based)
+    microcontrollers
