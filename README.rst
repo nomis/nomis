@@ -102,5 +102,8 @@ Other stuff 🤪
     Arduino 433MHz OOK Receiver/Transmitter (realtime sampling of the code
     period without running out of time to handle the next interrupt)
 
+`scd30 <https://github.com/nomis/scd30>`_
+    Monitoring of temperature, humidity and CO₂ using a SCD30 sensor.
+
 Work in progress 🚧
 -------------------
