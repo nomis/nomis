@@ -24,6 +24,10 @@ Applications and libraries 📦
     tab completion and integrated logging framework (log output is displayed
     above the shell prompt so that it doesn't interrupt commands being typed)
 
+`mcu-uuid-modbus <https://github.com/nomis/mcu-uuid-modbus>`_
+    Asynchronous modbus library for ESP (and other Arduino-based)
+    microcontrollers
+
 `qmk-hid-identify <https://github.com/nomis/qmk-hid-identify>`_
     Identify the current OS to `QMK <https://qmk.fm/>`_ [keyboard] device
     (currently only supports Linux and Windows)
@@ -100,7 +104,3 @@ Other stuff 🤪
 
 Work in progress 🚧
 -------------------
-
-`mcu-uuid-modbus <https://github.com/nomis/mcu-uuid-modbus>`_
-    Asynchronous modbus library for ESP (and other Arduino-based)
-    microcontrollers
