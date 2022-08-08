@@ -103,7 +103,11 @@ Other stuff 🤪
     period without running out of time to handle the next interrupt)
 
 `scd30 <https://github.com/nomis/scd30>`_
-    Monitoring of temperature, humidity and CO₂ using a SCD30 sensor.
+    Monitoring of temperature, humidity and CO₂ using a SCD30 sensor
 
 Work in progress 🚧
 -------------------
+
+`ggroohauga <https://github.com/nomis/ggroohauga>`_
+    Alternative console and simulated amplifier interface for the ESP32-S2
+    microcontroller interacting with Logitech® Z906 Surround Sound Speakers
