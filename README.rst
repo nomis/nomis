@@ -111,3 +111,6 @@ Work in progress 🚧
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
     microcontroller interacting with Logitech® Z906 Surround Sound Speakers
+
+`aurora-coriolis <https://github.com/nomis/aurora-coriolis>`_
+    ESP32 WS281x multi-channel LED controller with MicroPython
