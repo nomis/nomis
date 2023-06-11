@@ -40,7 +40,7 @@ Applications and libraries 📦
     Bookmarks management website and Ruby on Rails experiment
 
 `all-the-maps <https://github.com/nomis/all-the-maps>`_
-    Web page with links to all the map services for a latitude/longitude location
+    `Web page <https://maps.uuid.uk/>`_ with links to all the map services for a `latitude/longitude location <https://maps.uuid.uk/#38.897778,-77.036389>`_
 
 `cursus-core <https://github.com/nomis/cursus-core>`_, `cursus-ui <https://github.com/nomis/cursus-ui>`_
     Race series management program (incomplete but able to calculate results)
