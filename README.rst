@@ -69,6 +69,12 @@ Contributions to other projects 🎁
       transactions (essential when there are 3 months of future dated scheduled
       transactions)
 
+    * Quickly switch tab position from the View menu
+
+    * Performance improvements with large files and many open registers
+
+    * Various bug fixes, new preferences and British English translations
+
 `charybdis <https://github.com/nomis/charybdis>`_ (IRC server)
     * Support restarting ssld processes (to upgrade the TLS library) without
       affecting existing connections
