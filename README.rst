@@ -121,7 +121,7 @@ Work in progress 🚧
     ESP32 WS281x multi-channel LED controller with MicroPython
 
 `candle-dribbler <https://github.com/nomis/candle-dribbler>`_
-    ESP32 Zigbee multi-channel light controller and 433 MHz RF receiver
+    ESP32 Zigbee multi-channel light controller
 
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
