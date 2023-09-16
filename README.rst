@@ -32,6 +32,9 @@ Applications and libraries 📦
     Identify the current OS to `QMK <https://qmk.fm/>`_ [keyboard] device
     (currently only supports Linux and Windows)
 
+`candle-dribbler <https://github.com/nomis/candle-dribbler>`_
+    ESP32 Zigbee multi-channel light controller
+
 `slf4j-android <https://github.com/nomis/slf4j-android>`_
     `SLF4J <https://slf4j.org/>`_ binding for the
     `Android logger <https://developer.android.com/reference/android/util/Log>`_
@@ -119,9 +122,6 @@ Work in progress 🚧
 
 `aurora-coriolis <https://github.com/nomis/aurora-coriolis>`_
     ESP32 WS281x multi-channel LED controller with MicroPython
-
-`candle-dribbler <https://github.com/nomis/candle-dribbler>`_
-    ESP32 Zigbee multi-channel light controller
 
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
