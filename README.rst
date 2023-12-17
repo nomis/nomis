@@ -32,6 +32,11 @@ Applications and libraries 📦
     Identify the current OS to `QMK <https://qmk.fm/>`_ [keyboard] device
     (currently only supports Linux and Windows)
 
+`aurora-coriolis <https://github.com/nomis/aurora-coriolis>`_
+    ESP32 WS281x multi-channel LED controller with MicroPython
+
+    (Needs documentation on how to use it)
+
 `candle-dribbler <https://github.com/nomis/candle-dribbler>`_
     ESP32 Zigbee multi-channel light controller
 
@@ -119,9 +124,6 @@ Other stuff 🤪
 
 Work in progress 🚧
 -------------------
-
-`aurora-coriolis <https://github.com/nomis/aurora-coriolis>`_
-    ESP32 WS281x multi-channel LED controller with MicroPython
 
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
