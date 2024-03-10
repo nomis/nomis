@@ -112,6 +112,12 @@ Scripts and tools 🧰
 Other stuff 🤪
 --------------
 
+`logitech-z906 <https://github.com/nomis/logitech-z906>`_
+    Unofficial documentation for Logitech® Z906 Surround Sound Speakers
+
+`ikea-tradfri-e1812 <https://github.com/nomis/ikea-tradfri-e1812>`_
+    Unofficial documentation for the IKEA® TRÅDFRI Shortcut Button (E1812)
+
 `utility-usage-website <https://github.com/nomis/utility-usage-website>`_, `network-traffic-usage-website <https://github.com/nomis/network-traffic-usage-website>`_
     Rendering client-side SVG graphs and HTML pages with XSLT 1.0
 
