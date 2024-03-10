@@ -128,3 +128,6 @@ Work in progress 🚧
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
     microcontroller interacting with Logitech® Z906 Surround Sound Speakers
+
+`eightfold-seal <https://github.com/nomis/eightfold-seal>`_
+    ESP32 Zigbee door open alarm
