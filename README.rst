@@ -40,6 +40,9 @@ Applications and libraries 📦
 `candle-dribbler <https://github.com/nomis/candle-dribbler>`_
     ESP32 Zigbee multi-channel light controller
 
+`tempus-redux <https://github.com/nomis/tempus-redux>`_
+    ESP32 "Time from NPL" (MSF) Radio clock signal generator
+
 `slf4j-android <https://github.com/nomis/slf4j-android>`_
     `SLF4J <https://slf4j.org/>`_ binding for the
     `Android logger <https://developer.android.com/reference/android/util/Log>`_
