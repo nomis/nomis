@@ -140,3 +140,8 @@ Work in progress 🚧
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
     microcontroller interacting with Logitech® Z906 Surround Sound Speakers
+
+`hx711-weigh-scales-logger <https://github.com/nomis/hx711-weigh-scales-logger>`_
+    Data logger for the `HX711 <https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf>`_
+    24-Bit `ADC <https://en.wikipedia.org/wiki/Analog-to-digital_converter>`_
+    for Weigh Scales
