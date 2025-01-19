@@ -40,6 +40,9 @@ Applications and libraries 📦
 `candle-dribbler <https://github.com/nomis/candle-dribbler>`_
     ESP32 Zigbee multi-channel light controller
 
+`eightfold-seal <https://github.com/nomis/eightfold-seal>`_
+    ESP32 Zigbee door open alarm
+
 `tempus-redux <https://github.com/nomis/tempus-redux>`_
     ESP32 "Time from NPL" (MSF) Radio clock signal generator
 
@@ -137,6 +140,3 @@ Work in progress 🚧
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
     Alternative console and simulated amplifier interface for the ESP32-S2
     microcontroller interacting with Logitech® Z906 Surround Sound Speakers
-
-`eightfold-seal <https://github.com/nomis/eightfold-seal>`_
-    ESP32 Zigbee door open alarm
