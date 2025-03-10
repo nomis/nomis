@@ -17,8 +17,6 @@ Applications and libraries 📦
     image into memory so that it takes practically no time to switch between
     them.
 
-    (Needs a tidy up and to use `Meson <https://mesonbuild.com/>`_ for building)
-
 `mcu-uuid-log <https://github.com/nomis/mcu-uuid-log>`_, `mcu-uuid-syslog <https://github.com/nomis/mcu-uuid-syslog>`_, `mcu-uuid-console <https://github.com/nomis/mcu-uuid-console>`_, `mcu-uuid-telnet <https://github.com/nomis/mcu-uuid-telnet>`_
     Console shell for ESP (and other Arduino-based) microcontrollers with
     tab completion and integrated logging framework (log output is displayed
