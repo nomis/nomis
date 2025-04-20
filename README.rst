@@ -138,7 +138,7 @@ Work in progress 🚧
 -------------------
 
 `ggroohauga <https://github.com/nomis/ggroohauga>`_
-    Alternative console and simulated amplifier interface for the ESP32-S2
+    Alternative console and simulated amplifier interface for the ESP32-S3
     microcontroller interacting with Logitech® Z906 Surround Sound Speakers
 
 `hx711-weigh-scales-logger <https://github.com/nomis/hx711-weigh-scales-logger>`_
