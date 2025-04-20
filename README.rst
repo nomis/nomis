@@ -85,6 +85,8 @@ Contributions to other projects 🎁
 
     * Performance improvements with large files and many open registers
 
+    * Better handling of complex Jump to other split operations
+
     * Various bug fixes, new preferences and British English translations
 
 `charybdis <https://github.com/nomis/charybdis>`_ (IRC server)
