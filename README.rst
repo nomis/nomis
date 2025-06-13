@@ -118,6 +118,9 @@ Scripts and tools 🧰
 Other stuff 🤪
 --------------
 
+`keyboard-pcb-rpi-pico-25x1 <https://github.com/nomis/keyboard-pcb-rpi-pico-25x1>`_
+    PCB for a 25x1 keyboard connected to a Raspberry Pi Pico
+
 `logitech-z906 <https://github.com/nomis/logitech-z906>`_
     Unofficial documentation for Logitech® Z906 Surround Sound Speakers
 
