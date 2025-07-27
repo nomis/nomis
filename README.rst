@@ -149,3 +149,7 @@ Work in progress 🚧
     Alternative console and simulated amplifier interface for the ESP32-S3
     microcontroller interacting with Logitech® Z906 Surround Sound Speakers
 
+`ggroohauga-pcb <https://github.com/nomis/ggroohauga-pcb>`_
+    PCBs for an alternative console and simulated amplifier interface for
+    the ESP32-S3 microcontroller interacting with Logitech® Z906 Surround
+    Sound Speakers
