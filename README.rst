@@ -127,6 +127,14 @@ Other stuff 🤪
 `ikea-tradfri-e1812 <https://github.com/nomis/ikea-tradfri-e1812>`_
     Unofficial documentation for the IKEA® TRÅDFRI Shortcut Button (E1812)
 
+`dali-pcb <https://github.com/edinburghhacklab/dali-pcb>`_
+    PCB for a `DALI <https://en.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface>`_
+    power supply and controller
+
+`mqtt-dali-controller <https://github.com/edinburghhacklab/mqtt-dali-controller>`_
+    Control `DALI <https://en.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface>`_
+    lights using an ESP32-S3 over `MQTT <https://en.wikipedia.org/wiki/MQTT>`_
+
 `hx711-weigh-scales-logger <https://github.com/nomis/hx711-weigh-scales-logger>`_
     Data logger for the `HX711 <https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf>`_
     24-Bit `ADC <https://en.wikipedia.org/wiki/Analog-to-digital_converter>`_
